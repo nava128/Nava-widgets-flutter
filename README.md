@@ -24,3 +24,5 @@ Flutter Mapp
 - [https://github.com/shutterscripter/Flutter-100-Days-Challenge.git](https://github.com/sanjay-rb/100-Days-Of-Flutter-Widgets.git)https://github.com/sanjay-rb/100-Days-Of-Flutter-Widgets.git
 ## widget ejemplos
 - [https://github.com/shutterscripter/Flutter-100-Days-Challenge.git](https://github.com/ckdevrel/flutter-examples.git)https://github.com/ckdevrel/flutter-examples.git
+## 100 codigos  de flutter
+- [https://github.com/shutterscripter/Flutter-100-Days-Challenge.git](https://github.com/AmineLAHRIM/widget_of_the_day.git)https://github.com/AmineLAHRIM/widget_of_the_day.git
